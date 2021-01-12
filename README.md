@@ -2,6 +2,8 @@
 
 Desenvolvedor front-end
 
+Sempre em busca do progresso!
+
 <!--
 **viiniciusgs/viiniciusgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
