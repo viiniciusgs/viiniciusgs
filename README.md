@@ -1,5 +1,7 @@
 ## E aí! Eu sou o Vinicius Gabriel 👋
 
+_"Quando penso que já cheguei no meu limite, descubro que tenho forças para ir além." - Ayrton Senna_
+
 <div>
   <a href="https://github.com/viiniciusgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viiniciusgs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
