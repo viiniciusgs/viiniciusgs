@@ -3,7 +3,7 @@
 Desenvolvedor Front-end.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Gabriel-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viiniciusgs/)](https://www.linkedin.com/in/viiniciusgs/) 
-[![Gmail Badge](https://img.shields.io/badge/-viiniciusgs03@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viiniciusgs03@gmail.com)](mailto:viiniciusgs03@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hello@viiniciusgs.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@viiniciusgs.com)](mailto:hello@viiniciusgs.com)
 [![Instagram Badge](https://img.shields.io/badge/-@viiniciusgs-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://www.instagram.com/viiniciusgs/)](https://www.instagram.com/viiniciusgs/) 
 
 Desenvolvedor front-end desde 2020, cursando Análise e Desenvolvimento de Sistemas. 
