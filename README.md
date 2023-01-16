@@ -1,6 +1,6 @@
 # Vinicius Gabriel
 
-Desenvolvedor Front-end na [Be Growth](https://begrowth.com.br/).
+Frontend Engineer na [Be Growth](https://begrowth.com.br/).
 
 Apaixonado por criar experiências web atraentes e interativas.
 
