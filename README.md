@@ -1,4 +1,4 @@
-# Vinicius Gabriel
+# Vinicius Santos
 
 Engenheiro de Software graduado em Análise e Desenvolvimento de Sistemas pela FIAP. Apaixonado por toda forma de arte, tento mostrar um pouco de mim em tudo que faço. No trabalho, busco demonstrar isso focando na criação de experiências práticas e intuitivas para o usuário final.
 
